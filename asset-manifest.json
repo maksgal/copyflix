@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/maksgal/copyflix/static/css/main.01c2cabb.chunk.css",
+    "main.js": "/maksgal/copyflix/static/js/main.4928a753.chunk.js",
+    "main.js.map": "/maksgal/copyflix/static/js/main.4928a753.chunk.js.map",
+    "runtime-main.js": "/maksgal/copyflix/static/js/runtime-main.726c60a3.js",
+    "runtime-main.js.map": "/maksgal/copyflix/static/js/runtime-main.726c60a3.js.map",
+    "static/js/2.febca2bb.chunk.js": "/maksgal/copyflix/static/js/2.febca2bb.chunk.js",
+    "static/js/2.febca2bb.chunk.js.map": "/maksgal/copyflix/static/js/2.febca2bb.chunk.js.map",
+    "index.html": "/maksgal/copyflix/index.html",
+    "static/css/main.01c2cabb.chunk.css.map": "/maksgal/copyflix/static/css/main.01c2cabb.chunk.css.map",
+    "static/js/2.febca2bb.chunk.js.LICENSE.txt": "/maksgal/copyflix/static/js/2.febca2bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.726c60a3.js",
+    "static/js/2.febca2bb.chunk.js",
+    "static/css/main.01c2cabb.chunk.css",
+    "static/js/main.4928a753.chunk.js"
+  ]
+}
